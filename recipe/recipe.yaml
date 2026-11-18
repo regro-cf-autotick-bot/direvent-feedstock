@@ -12,7 +12,7 @@ source:
     - 0001-Fall-back-to-nanosleep-where-clock_nanosleep-is-missing.patch
 
 build:
-  number: 0
+  number: 1
   skip: win
 
 requirements:
